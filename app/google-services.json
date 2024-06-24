@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23226498681",
+    "project_id": "moneymotion-d907d",
+    "storage_bucket": "moneymotion-d907d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23226498681:android:c4ec9c09aa7ddc98dedea8",
+        "android_client_info": {
+          "package_name": "com.example.motionmoney"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD9fehro5fY-e8mKOYWeXGkMkzeQZmiCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
